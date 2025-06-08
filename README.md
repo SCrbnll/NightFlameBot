@@ -1,4 +1,4 @@
-# TroubleGang Discord Bot
+# NightFlame Discord Bot
 
 ¡Bienvenido al repositorio oficial de NightFlameBot, un bot de Discord versátil, con comandos de información, entretenimiento, utilidad y moderación!
 
