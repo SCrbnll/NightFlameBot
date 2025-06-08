@@ -6,7 +6,7 @@
 
 ## Descripción
 
-TroubleGang es un bot para Discord creado para ofrecer funcionalidades tanto de diversión como de gestión para tu servidor. Incluye comandos útiles, juegos, información, y gestión de respuestas automáticas y eventos.
+NightFlameBot  es un bot para Discord creado para ofrecer funcionalidades tanto de diversión como de gestión para tu servidor. Incluye comandos útiles, juegos, información, y gestión de respuestas automáticas y eventos.
 
 ---
 
