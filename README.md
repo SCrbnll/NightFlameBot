@@ -1,14 +1,10 @@
 # NightFlame Discord Bot
 
-¡Bienvenido al repositorio oficial de NightFlameBot, un bot de Discord versátil, con comandos de información, entretenimiento, utilidad y moderación!
-
----
+![NightFlameBot](https://github.com/SCrbnll/NightFlameBot/blob/main/nightflamebot.png)
 
 ## Descripción
 
 NightFlameBot  es un bot para Discord creado para ofrecer funcionalidades tanto de diversión como de gestión para tu servidor. Incluye comandos útiles, juegos, información, y gestión de respuestas automáticas y eventos.
-
----
 
 ## Comandos disponibles
 
